@@ -102,7 +102,7 @@ Undefined:
 ```javascript
 let noVariable;
 
-const symbol = [
+const _undefined = [
   typeof noVariable, // undefined
   typeof undefined,
 ];
